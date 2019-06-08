@@ -9,6 +9,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
+        "hoek": ">=4.2.1"
         "async": "^2.6.0",
         "auto-bind": "^1.2.0",
         "bcrypt": "^3.0.2",
